@@ -241,6 +241,10 @@
         "type": "technology"
       },
       {
+        "name": "WordPress",
+        "type": "technology"
+      },
+      {
         "name": "jQuery",
         "type": "technology"
       }
