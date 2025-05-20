@@ -1,0 +1,249 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Tamara",
+      "surnames": "Santamaría",
+      "title": "Desarrollador web front-end",
+      "description": "Desarrollador web front-end. Desarrollando sitios web y aplicaciones utilizando HTML moderno, CSS, Bootstrap, JavaScript y JQuery. Siempre aprendiendo",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ89GEEBa6Rw0RH-fCip5Tpw0)",
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Grijota"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/tamara-san-ort/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/marasortiz"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ayuntamiento de Grijota"
+        },
+        "roles": [
+          {
+            "name": "Especialista en Grabación de datos",
+            "startDate": "2024-03-01",
+            "finishDate": "2024-12-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TUR WONDERLAND SL"
+        },
+        "roles": [
+          {
+            "name": "Técnico de Soporte Web",
+            "startDate": "2020-09-01",
+            "finishDate": "2020-09-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CURSO DE INTRODUCCIÓN AL DESARROLLO WEB, DESARROLLO FRONT END Y DESARROLLO FULL STACK",
+        "startDate": "2025-05-20",
+        "institution": {
+          "name": "Fundación General de la Universidad de Alcalá "
+        },
+        "finishDate": "2022-08-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Certificado de Profesionalidad",
+        "startDate": "2019-10-01",
+        "institution": {
+          "name": "SEPE"
+        },
+        "finishDate": "2020-09-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Certificado de profesionalidad",
+        "startDate": "2024-03-01",
+        "institution": {
+          "name": "SEPE"
+        },
+        "finishDate": "2024-11-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "INTRODUCCIÓN AL DESARROLLO WEB: HTML Y CSS",
+        "startDate": "2025-05-20",
+        "institution": {
+          "name": "Google Actívate"
+        },
+        "finishDate": "2023-02-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Key English Test (A2)",
+        "startDate": "2025-05-20",
+        "institution": {
+          "name": "University of Cambridge"
+        },
+        "finishDate": "2007-04-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Soporte de Tecnologías de la Información",
+        "startDate": "2021-08-01",
+        "institution": {
+          "name": "Coursera"
+        },
+        "finishDate": "2022-02-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnica Superior en Mantenimiento Electrónico",
+        "startDate": "2013-09-01",
+        "institution": {
+          "name": "I.E.S. Trinidad Arroyo"
+        },
+        "finishDate": "2015-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnica Superior en Sistemas de Telecomunicaciones e Informáticos",
+        "startDate": "2013-09-01",
+        "institution": {
+          "name": "I.E.S. Trinidad Arroyo"
+        },
+        "finishDate": "2015-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/tamara-san-ort/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/marasortiz",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "jQuery",
+        "type": "technology"
+      }
+    ]
+  }
+}
