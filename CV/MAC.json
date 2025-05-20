@@ -160,16 +160,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Técnica Superior en Mantenimiento Electrónico",
-        "startDate": "2013-09-01",
-        "institution": {
-          "name": "I.E.S. Trinidad Arroyo"
-        },
-        "finishDate": "2015-06-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Técnica Superior en Sistemas de Telecomunicaciones e Informáticos",
         "startDate": "2013-09-01",
         "institution": {
